@@ -1,0 +1,90 @@
+h1 
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: x-large;
+line-height: normal;
+color: #003366;
+font-weight: bold;
+text-align: center;
+}
+h2 
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: large;
+line-height: normal;
+color: #003366;
+font-weight: bold;
+text-align: left;
+}
+h3 
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: medium;
+line-height: normal;
+color: #000000;
+font-weight: bold;
+text-align: left;
+}
+h6 
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: x-large;
+line-height: normal;
+color: #FF0000;
+font-weight: bold;
+text-align: center;
+}
+body 
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: medium;
+line-height: normal;
+font-weight: normal;
+text-align: left;
+color: #000000; 
+background-color: #ffffff;
+}
+a:link {color: #003366; text-decoration:underline;} 
+a:visited {color: #666666; text-decoration:underline;}
+a:hover {color: #660000; text-decoration:underline;}
+#side_links
+{
+font-family: Verdana, Helvetica, Arial, sans-serif;
+line-height: 200%;
+font-weight: bold;
+}
+#outer_wrap
+{
+text-align: left; 
+margin-left: auto; 
+margin-right: auto;
+border: 0px;
+width: 960px;
+}
+#row_1
+{
+vertical-align: middle;
+}
+#row_2
+{
+vertical-align: top;
+}
+#left_col
+{
+width: 280px;
+}
+#right_col
+{
+vertical-align: top;
+}
+#contact_box
+{
+text-align: left;
+width: 100%; 
+vertical-align: top;
+}
+#ma_pic
+{
+text-align: right; 
+width: 230px;
+}
