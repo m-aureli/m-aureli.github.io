@@ -1,9 +1,9 @@
-/* Import DM Sans and Aleo from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+/* Import Inter and Roboto Slab from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400..700;1,14..32,400..700&family=Roboto+Slab:wght@400..700&display=swap');
 
 /* Base Styles */
 body {
-  font-family: 'DM Sans', Verdana, sans-serif;
+  font-family:  Inter, Verdana, sans-serif;
   font-size: medium;
   line-height: normal;
   font-weight: normal;
@@ -14,7 +14,7 @@ body {
 
 /* Headings */
 h1 {
-  font-family: 'Aleo', Rockwell, serif;
+  font-family: "Roboto Slab", Rockwell, serif;
   font-size: x-large;
   line-height: normal;
   color: #003366;
@@ -23,6 +23,7 @@ h1 {
 }
 
 h2 {
+	font-family: "Roboto Slab", Rockwell, serif;
   font-size: large;
   line-height: normal;
   color: #003366;
